@@ -35,19 +35,13 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=https://github.com/pandeypooja21& show_icons=true&locale=en&layout=compact" alt="pandeypooja21" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=https://github.com/Samarth0108& show_icons=true&locale=en&layout=compact" alt="Samarth0108" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandeypooja21&show_icons=true&locale=en" alt="pandeypooja21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Samarth0108&show_icons=true&locale=en" alt="Samarth0108" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandeypooja21&" alt="pandeypooja21" /></p>
- <h2 align="left">Support Me💰</h2>
-  <p align="center"> 
-    <a href="https://www.buymeacoffee.com/poojapandev" target="_blank">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" >
-    </a>
-  </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samarth0108&" alt="Samarth0108" /></p>
+ <h2 align="center">Support Me Please 😊 !!!!</h2>
 
-#
 <div align="center">
 
 <a href="https://github.com/DenverCoder1/Simple-View-Counter">
