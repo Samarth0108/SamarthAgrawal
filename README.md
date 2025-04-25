@@ -2,7 +2,7 @@
   <a target="_blank"> 
   </a> 
   Hello !! Welcome to my Profile !!
-  <a target="_blank"> 
+  <a target="_blank">  
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h2>
